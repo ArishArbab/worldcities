@@ -6,7 +6,7 @@ router.get('/', function(req, res, next) {
         title:"WorldCities",
         headline:"Singapore: A moving experience at every turn",
     	city:"singapore",
-    	numberOfImages:1
+    	numberOfImages:2
     });
 });
 
